@@ -13,7 +13,7 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 
 ## Setting Up
 
-You have to edit the `config.json` file its located in the storage directory. Your file should look something like this:
+You have to edit the `config.js` file its located in the storage directory. Your file should look something like this:
 ```
 module.exports = {
 
