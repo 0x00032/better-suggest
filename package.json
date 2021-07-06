@@ -1,0 +1,17 @@
+{
+  "name": "better-suggest",
+  "version": "1.0.0",
+  "description": "Multi guild sharded suggestions bot!",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "diverse#6858",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "fs-extra": "^10.0.0",
+    "quick.db": "^7.1.3"
+  }
+}
